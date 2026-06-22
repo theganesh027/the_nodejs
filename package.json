@@ -1,0 +1,20 @@
+{
+  "name": "thebackend",
+  "version": "1.0.0",
+  "description": "a basic code,which were made by BAAP company",
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "ganesh kanawade",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
